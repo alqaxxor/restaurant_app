@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Restaurant",
+        "category": 1
+    },
+    {
+        "id": 2,
+        "name": "Fas food",
+        "category": 2
+    }
+]

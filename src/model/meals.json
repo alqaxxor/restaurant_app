@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Somsa",
+      "cost": "6000",
+      "category": "Jiz Biz"
+    },
+    {
+      "id": 2,
+      "name": "Lag'mon",
+      "cost": "17000",
+      "category": "Yalpiz"
+    },
+    {
+      "id": 3,
+      "name": "Gamburger",
+      "cost": "26000",
+      "category": "Evos"
+    },
+    {
+      "id": 4,
+      "name": "Peperoni 50sm",
+      "cost": "72000",
+      "category": "Tesko"
+    }
+  ]
